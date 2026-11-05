@@ -1,5 +1,4 @@
 # Lab 3: Monitoring, Logging & DevSecOps - Variables
-# Student: Akash | Roll No: 2301730184 | Email: ad1646414@gmail.com
 
 variable "replicas" {
   description = "Number of horizontally scaled demo application containers."
