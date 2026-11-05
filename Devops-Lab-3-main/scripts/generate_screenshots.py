@@ -1,6 +1,5 @@
 """
 Script to generate realistic, professional evidence screenshots for Lab 3.
-Student: Akash (2301730184) - ad1646414@gmail.com
 """
 
 import os
