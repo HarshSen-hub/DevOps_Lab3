@@ -1,6 +1,5 @@
 """
 Script to package all 7 lab submission deliverables.
-Student: Akash (2301730184) - ad1646414@gmail.com
 """
 
 import os
@@ -13,9 +12,9 @@ SUBMISSION_DIR = BASE_DIR / "submission"
 SUBMISSION_DIR.mkdir(parents=True, exist_ok=True)
 
 STUDENT_BANNER = """# Lab 3: Monitoring, Logging & DevSecOps
-**Student Name:** Akash  
-**Roll No / Register No:** 2301730184  
-**Email:** ad1646414@gmail.com  
+**Student Name:** harsh  
+**Roll No / Register No:** 2301730194  
+**Email:** iharshsen08@gmail.com  
 **Course Activity:** Lab 3: Monitoring, Logging & DevSecOps  
 **Date:** November 04, 2026  
 """
