@@ -1,6 +1,5 @@
 # Lab 3: Monitoring, Logging & DevSecOps - Prometheus Config
-# Student: Akash | Roll No: 2301730184 | Email: ad1646414@gmail.com
-global:
+ global:
   scrape_interval: 15s
 
 scrape_configs:
