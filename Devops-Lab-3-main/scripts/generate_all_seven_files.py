@@ -5,7 +5,6 @@ Generates:
 2. Master 9-page PDF and DOCX reports for Task 7
 3. Self-contained ZIP packages containing code, screenshots, and PDFs for all 7 tasks
 Outputs cleanly into D:/devops lab 3/SUBMISSION_READY and D:/devops lab 3/lab3-monitoring-devsecops/submission
-Student: Akash (2301730184) - ad1646414@gmail.com
 """
 
 import os
